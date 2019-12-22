@@ -20,7 +20,7 @@ Replace the name of train and validation and test dataset with your own dataset.
 # Data preparation-
 Within a train folder make folder for each class and put particular class data in that respective folder.
 Example
-Train folder-->>/spam /nospam-->>> /spam foler contain all the data for spam dataset -->>>/nospam folder contain all the data for nospam dataset
+Train folder-->>/spam /nospam-->>> /spam folder contain all the data for spam dataset -->>>/nospam folder contain all the data for nospam dataset
 Repeat the same for train, validation and test folder.
 # Note: Do not repeat same dataset in train, validate and test folder. If dataset is less, please try using k-fold cross validation to obtain validation set.
 I'll try to make a separate post for the same :)
