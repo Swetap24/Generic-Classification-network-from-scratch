@@ -9,3 +9,24 @@ Classification network could be developed in many ways using different neural ne
 
 This is my first public repository!
 Do give feedback if any :)
+
+
+
+
+
+Dataloader-
+Replace the name of train and validation and test dataset with your own dataset.
+
+Data preparation-
+Within a train folder make folder for each class and put particular class data in that respective folder.
+Example
+Train folder-->>/spam /nospam-->>> /spam foler contain all the data for spam dataset -->>>/nospam folder contain all the data for nospam dataset
+Repeat the same for train, validation and test folder.
+Note: Do not repeat same dataset in train, validate and test folder. If dataset is less, please try using k-fold cross validation to obtain validation set.
+I'll try to make a separate post for the same :)
+
+In ResNet block, number of classes could be changed to number of classes you have in your classification task(need not be 2 in multi- class classification)
+
+Just specify path to save model and you are good to go :)
+
+Happy Coding!
