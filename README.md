@@ -30,3 +30,5 @@ In ResNet block, number of classes could be changed to number of classes you hav
 Just specify path to save model and you are good to go :)
 
 Happy Coding!
+
+~citation- https://towardsdatascience.com/residual-network-implementing-resnet-a7da63c7b278
