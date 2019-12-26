@@ -1,4 +1,4 @@
-# Generic-Classification-network-from-scratch
+# Generic-Classification-network-from-scratch-Pytorch
 ResNet Model for classification task
 Classification is nothing but predicting which class an item belongs to. Some classifiers could be binary(Spam/no Spam, Defect/No defect) while others are multi-class. Classification is a very common use case of deep learning where classification algorithms are used to solve problems like email spam filtering, document categorization, speech recognition, image recognition, biomdeical usage and handwriting recognition.
 
